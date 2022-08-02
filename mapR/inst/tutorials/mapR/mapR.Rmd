@@ -1,5 +1,5 @@
 ---
-title: "mapR"
+title: "Creating publication-ready maps in R"
 output: 
   learnr::tutorial:
     theme: "flatly"

@@ -87,7 +87,7 @@ travel <- data.frame(lat_2,long_2)
 
 * Where can I learn more?
 
-<img style="padding:0.7em; margin-left:1em;" src="images/ch_intro.jpg" width="700"/>
+<img style="padding:0.7em; margin-left:1em;" src="mapR/images/ch_intro.jpg" width="700"/>
 
 
 ## 2. Our first map in R
